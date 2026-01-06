@@ -1,0 +1,5 @@
+{
+  "name": "MedPreventiva Pro - Sistema Integral de Inventarios",
+  "description": "Una aplicación avanzada de gestión de inventarios médicos con autenticación jerárquica, sincronización en tiempo real con IndexedDB y una interfaz moderna y profesional.",
+  "requestFramePermissions": []
+}
